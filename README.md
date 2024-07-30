@@ -38,7 +38,7 @@ Yourbrand, Readinglab, Shimpyo, GrowthTopia 프로젝트에서 기능하며 경�
 유튜브 <https://www.youtube.com/@resomang/>
 
 #### Problem Solving & Competitive Programming
-백준 <https://www.acmicpc.net/user/resomang/>  
+백준 <https://www.acmicpc.net/user/resomang>  
 솔브드 <https://solved.ac/profile/resomang/>
 <br/><br/>
 
