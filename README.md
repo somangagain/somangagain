@@ -34,12 +34,13 @@ ___
 고민과 노력의 흔적이 저뿐만 아니라 많은 분들께 도움이 되면 좋겠습니다.
 
 #### Blog & Youtube
-티스토리 <https://resomang.tistory.com/>  
-유튜브 <https://www.youtube.com/@resomang/>
+Tistory <https://resomang.tistory.com/>  
+Youtube <https://www.youtube.com/@resomang/>
 
 #### Problem Solving & Competitive Programming
-백준 <https://www.acmicpc.net/user/resomang>  
-솔브드 <https://solved.ac/profile/resomang/>
+Codeforces <https://codeforces.com/profile/resomang/>  
+Solved <https://solved.ac/profile/resomang/>  
+Baekjoon Online Judge <https://www.acmicpc.net/user/resomang/>  
 <br/><br/>
 
 **마치며**
