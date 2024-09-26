@@ -18,4 +18,3 @@ Youtube <https://www.youtube.com/@resomang/>
 Codeforces <https://codeforces.com/profile/resomang/>  
 Solved <https://solved.ac/profile/resomang/>  
 Baekjoon Online Judge <https://www.acmicpc.net/user/resomang/>  
-<br/><br/>
