@@ -1,20 +1,22 @@
-### 안녕하세요, resomang입니다.  
+### Hello, I’m **Resomang**.
 
-___
+------
 
-얼굴보다 훨씬 큰 책과 시작한 프로그래밍을   
-2012년부터 계속해오고 있습니다.  
+I started programming with a book that was much larger than my face, and I’ve been at it ever since, since 2012.
 
-지식과 기술을 이용해 세상의 문제를 푸는 것을 즐기고  
-언제나 더 나은 것을 추구하는 문제 해결자입니다.
+I’m someone who enjoys solving complex problems using knowledge and technology, always striving to find better, more efficient solutions. Whether it's developing software, solving algorithmic challenges, or exploring new fields in tech, I am constantly motivated to learn and grow.
 
-___
+As a problem solver, I believe in continuous improvement. The excitement of tackling challenges, learning from mistakes, and achieving breakthroughs is what drives me forward. I am always looking for ways to innovate and push the boundaries of what I can accomplish.
 
-#### Blog & Youtube
-Tistory <https://resomang.tistory.com/>  
-Youtube <https://www.youtube.com/@resomang/>
+------
+
+#### Blog & YouTube
+
+- **Tistory**: https://resomang.tistory.com/
+- **YouTube**: https://www.youtube.com/@resomang/
 
 #### Problem Solving & Competitive Programming
-Codeforces <https://codeforces.com/profile/resomang/>  
-Solved <https://solved.ac/profile/resomang/>  
-Baekjoon Online Judge <https://www.acmicpc.net/user/resomang/>  
+
+- **Codeforces**: https://codeforces.com/profile/resomang/
+- **Solved.ac**: https://solved.ac/profile/resomang/
+- **Baekjoon Online Judge**: https://www.acmicpc.net/user/resomang/
