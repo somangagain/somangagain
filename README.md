@@ -10,6 +10,9 @@ As a problem solver, I believe in continuous improvement. The excitement of tack
 
 ------
 
+#### Contact
+- **Gmail**: somangagain@gmail.com
+
 #### Blog & YouTube
 
 - **Tistory**: https://resomang.tistory.com/
