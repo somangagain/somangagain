@@ -2,11 +2,11 @@
 
 ------
 
-I started programming with a book that was much larger than my face, and I’ve been at it ever since, since 2012.
+I started programming with a book much larger than my face, and I’ve been at it since 2012.
 
-I’m someone who enjoys solving complex problems using knowledge and technology, always striving to find better, more efficient solutions. Whether it's developing software, solving algorithmic challenges, or exploring new fields in tech, I am constantly motivated to learn and grow.
+I’m someone who enjoys solving complex problems with knowledge and technology, always striving to find better and more efficient solutions. Whether it's developing software, solving algorithmic challenges, or exploring new fields in tech, I am constantly motivated to learn and grow.
 
-As a problem solver, I believe in continuous improvement. The excitement of tackling challenges, learning from mistakes, and achieving breakthroughs is what drives me forward. I am always looking for ways to innovate and push the boundaries of what I can accomplish.
+As a problem solver, I believe in continuous improvement. The excitement of tackling challenges, learning from mistakes, and achieving breakthroughs drives me forward. I am always looking for ways to innovate and push the boundaries of what I can accomplish.
 
 ------
 
