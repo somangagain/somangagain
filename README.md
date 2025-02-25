@@ -32,7 +32,7 @@ As a problem solver, I believe in continuous improvement. The excitement of tack
 ------
 
 ### History
-- (2024.11. ~ ) **Undergraduate Research Intern - Artificial Intelligence & Information Architecture Laboratory(AIIA), Dankook University**
+- (2024.09. ~ ) **Undergraduate Research Intern - Artificial Intelligence & Information Architecture Laboratory(AIIA), Dankook University**
   - studying Computer Vision/Object Detection
   - working on a project - Development of Counterfeit Currency Detection AI, Model Development and Training
 
