@@ -23,3 +23,17 @@ As a problem solver, I believe in continuous improvement. The excitement of tack
 - **Codeforces**: https://codeforces.com/profile/resomang/
 - **Solved.ac**: https://solved.ac/profile/resomang/
 - **Baekjoon Online Judge**: https://www.acmicpc.net/user/resomang/
+
+------
+
+### Education
+- (2024.03. ~ ) **Undergraduate, Software Science, Dankook University**
+
+------
+
+### History
+- (2024.11. ~ ) **Undergraduate Research Intern - Artificial Intelligence & Information Architecture Laboratory(AIIA), Dankook University**
+  - studying Computer Vision/Object Detection
+  - working on a project - Development of Counterfeit Currency Detection AI, Model Development and Training
+
+------
