@@ -14,7 +14,8 @@ I also carefully examine a broad range of social issues, translating them into a
 - **Gmail**: somangagain@gmail.com
 -----
 #### Blog & YouTube
-- **Tistory**: https://resomang.tistory.com/
+- **Tistory (Development)**: https://resomang.tistory.com/
+- **Tistory (Scholar)**: https://somangagain.tistory.com/
 - **YouTube**: https://www.youtube.com/@resomang/
 -----
 #### Problem Solving & Competitive Programming
@@ -37,17 +38,28 @@ I also carefully examine a broad range of social issues, translating them into a
   - **Duration:** April 2025 ~ Present
 ------
 ### Experience
-**Club Management (Mar 2025 ~ Present)**  
+**KATUSA Soldier (Jul 2025 ~ Jan 2027)**  
+*Republic of Korea Army / United States Forces Korea (USFK)*
+
+**Club Management (Mar 2025 ~ Jun 2025)**  
 *SoftWare & AlGorithm Club (SWAG), Dankook University*
-- Organized capability-enhancement study sessions.
-  - Studied computer architecture, data structures & algorithms
-  - Planned and managed the curriculum, including seminars, assignments, and exams.
-- Hosted practice contests (Contest #1 on Mar 27, 2025).
+- Supported programming, data structure, algorithm seminars.
+- Hosted practice contests (Contest #1 on Mar 27, #2 on May 01, #3 on May 22, 2025).
 - Developed the official website [DaeDanSWAG](https://ddswag.kr) and drafted the club charter.  
 
 **Undergraduate Research Intern (Sep 2024 ~ Jun 2025)**  
 *Artificial Intelligence & Information Architecture Laboratory (AIIA), Dankook University*  
 - Focused on research in Computer Vision and Natural Language Processing.
 - (Nov 2024 ~ May 2025) Contributed to the project “Development of Counterfeit Currency Detection AI”:
-  - Developed and trained models, enhanced performance, and deployed solutions on edge devices.
+  - Used YOLO for object detection and linear regression for bounding box refinement.
+  - Applied ViT for feature extraction and localization from partial images.
+  - Trained and deployed models on edge devices with performance optimization.
 ------
+### Activity
+**President, Inquirist (May 2025 \~ Present)**  
+*A social innovation team dedicated to solving societal issues through technology and civic engagement*  
+- Lead overall strategy, resource allocation, and team coordination across multiple projects.
+- Translate complex social challenges into actionable technical tasks to drive meaningful impact.
+- Supervised projects from ideation to deployment, covering solution design, technical R\&D, and service operations.
+- Manage the team’s digital presence via [inquirist.tistory.com](https://inquirist.tistory.com)
+-----
