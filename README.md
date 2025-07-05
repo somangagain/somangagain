@@ -15,7 +15,7 @@ I also carefully examine a broad range of social issues, translating them into a
 -----
 #### Blog & YouTube
 - **Tistory (Development)**: https://resomang.tistory.com/
-- **Tistory (Scholar)**: https://somangagain.tistory.com/
+- **Tistory (Academic)**: https://somangagain.tistory.com/
 - **YouTube**: https://www.youtube.com/@resomang/
 -----
 #### Problem Solving & Competitive Programming
@@ -25,7 +25,7 @@ I also carefully examine a broad range of social issues, translating them into a
 - **Baekjoon Online Judge**: https://www.acmicpc.net/user/inquirist
 -----
 ### Education
-- **Undergraduate, Software Science, Dankook University** (Mar 2024 ~ Present) 
+- **Undergraduate, Software Science, Dankook University** (Mar 2024 ~ Present) [GPA: 4.16/4.5 | Rank: 7/91]
 ------
 ### Projects
 - **[DaeDanSWAG](https://ddswag.kr)**  
