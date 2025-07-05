@@ -22,15 +22,15 @@ I also carefully examine a broad range of social issues, translating them into a
 - **Undergraduate, Software Science, Dankook University** (Mar 2024 ~ Present) [GPA 4.16/4.5 | Rank 7/91]
 -----
 ### Skills
-| Area                  | Technologies                                                                 |
-|-----------------------|------------------------------------------------------------------------------|
-| **Programming Languages** | C, C++, Java, C#, Python, JavaScript, TypeScript, SQL (MySQL)              |
-| **Frontend**          | React, Redux, Axios, styled-components                                       |
-| **Backend**           | Express.js, Koa.js, JWT, Nodemailer                                          |
-| **Real-time Systems** | WebSocket, Socket.IO                                                         |
-| **DevOps & Deployment** | Cafe24, Netlify, Heroku, Naver Cloud (Ncloud)                              |
-| **Tools & Platforms** | Git, GitHub, Unity, Markdown, Kakao OAuth                            |
-| **Operating Systems** | Windows, Ubuntu Linux                                                        |
+| Area                  | Technologies                                            | Proficiency         |
+|-----------------------|---------------------------------------------------------|---------------------|
+| Programming Languages | Python, C++, JavaScript, TypeScript, Java, C#, MySQL   | Intermediate            |
+| Frontend              | React, Redux, styled-components, Axios                 | Intermediate            |
+| Backend               | Express.js, Koa.js, JWT, Nodemailer                    | Intermediate        |
+| Real-time             | WebSocket, Socket.IO                                   | Intermediate        |
+| DevOps                | Netlify, Heroku, Cafe24, Ncloud                        | Intermediate        |
+| Tools & Platforms     | Git, GitHub, Unity (WebGL), Markdown, Kakao OAuth      | Intermediate      |
+| OS                    | Windows, Ubuntu Linux                                  | Intermediate            |
 -----
 #### Problem Solving & Competitive Programming
 - **Codeforces**: https://codeforces.com/profile/inquirist
