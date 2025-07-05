@@ -9,7 +9,7 @@ I believe in continuous improvement. The excitement of tackling challenges, lear
 
 I also carefully examine a broad range of social issues, translating them into addressable technical tasks to develop practical and effective solutions. Through this process, I strive to create tangible value and foster meaningful change in society.  
 
-------
+-----
 #### Contact
 - **Gmail**: somangagain@gmail.com
 -----
@@ -18,15 +18,26 @@ I also carefully examine a broad range of social issues, translating them into a
 - **Tistory (Academic)**: https://somangagain.tistory.com/
 - **YouTube**: https://www.youtube.com/@resomang/
 -----
+### Education
+- **Undergraduate, Software Science, Dankook University** (Mar 2024 ~ Present) [GPA 4.16/4.5 | Rank 7/91]
+-----
+### Skills
+| Area                  | Technologies                                                                 |
+|-----------------------|------------------------------------------------------------------------------|
+| **Programming Languages** | C, C++, Java, C#, Python, JavaScript, TypeScript, SQL (MySQL)              |
+| **Frontend**          | React, Redux, Axios, styled-components                                       |
+| **Backend**           | Express.js, Koa.js, JWT, Nodemailer                                          |
+| **Real-time Systems** | WebSocket, Socket.IO                                                         |
+| **DevOps & Deployment** | Cafe24, Netlify, Heroku, Naver Cloud (Ncloud)                              |
+| **Tools & Platforms** | Git, GitHub, Unity, Markdown, Kakao OAuth                            |
+| **Operating Systems** | Windows, Ubuntu Linux                                                        |
+-----
 #### Problem Solving & Competitive Programming
 - **Codeforces**: https://codeforces.com/profile/inquirist
 - **AtCoder**: https://atcoder.jp/users/inquirist
 - **Solved.ac**: https://solved.ac/profile/inquirist
 - **Baekjoon Online Judge**: https://www.acmicpc.net/user/inquirist
 -----
-### Education
-- **Undergraduate, Software Science, Dankook University** (Mar 2024 ~ Present) [GPA: 4.16/4.5 | Rank: 7/91]
-------
 ### Projects
 - **[DaeDanSWAG](https://ddswag.kr)**  
   - **Description:** The official website for Dankook University's SoftWare & AlGorithm Club (SWAG).  
@@ -36,7 +47,7 @@ I also carefully examine a broad range of social issues, translating them into a
   - **Description:** A service that simplifies exam study schedules, assignment tracking, and task management while enabling early-morning collaborative study sessions.  
   - **Role:** Planned, developed, and maintained the entire service (Frontend/Backend/DevOps).  
   - **Duration:** April 2025 ~ Present
-------
+-----
 ### Experience
 **KATUSA Soldier (Jul 2025 ~ Jan 2027)**  
 *Republic of Korea Army / United States Forces Korea (USFK)*
@@ -54,7 +65,7 @@ I also carefully examine a broad range of social issues, translating them into a
   - Used YOLO for object detection and linear regression for bounding box refinement.
   - Applied ViT for feature extraction and localization from partial images.
   - Trained and deployed models on edge devices with performance optimization.
-------
+-----
 ### Activity
 **President, Inquirist (May 2025 \~ Present)**  
 *A social innovation team dedicated to solving societal issues through technology and civic engagement*  
