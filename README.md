@@ -39,12 +39,12 @@ I also carefully examine a broad range of social issues, translating them into a
 - **Baekjoon Online Judge**: https://www.acmicpc.net/user/inquirist
 -----
 ### Projects
-| Project        | Description                                                                                                   | Role                      | Duration                 | Link                                   |
-|-----------------|--------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------|----------------------------------------|
-| **GrowthTopia** | Habit-building and goal-tracking service with WebGL metaverse. Built with React, Koa, WebSocket, Unity.      | Solo Developer            | 2021 – 2024              | [growthtopia.net](https://growthtopia.net) |
-| **sharEmotion** | Emotion-based diary platform with Kakao login and like system. Developed MVP in 2 weeks as team of 3.        | Planning & Full Dev       | Feb 2024 – Mar 2024      | [sharemotion.co.kr](https://sharemotion.co.kr) |
-| **DaeDanSWAG**  | Official site for Dankook Univ. SWAG club. Full-stack web app built and maintained independently.            | Full-stack Dev & DevOps   | Mar 2025 – Jun 2025       | [ddswag.kr](https://ddswag.kr)         |
-| **ExamToday**   | Study assistant app for tracking exams, tasks, and morning study routines.                                   | Full-stack Dev & DevOps   | Apr 2025 – May 2025       | [examtoday.inquirist.net](https://examtoday.inquirist.net) |
+| Project        | Description                                                                                                   | Role                      | Duration                 |
+|-----------------|--------------------------------------------------------------------------------------------------------------|---------------------------|--------------------------|
+| **GrowthTopia** | Habit-building and goal-tracking service with WebGL metaverse. Built with React, Koa, WebSocket, Unity.      | Solo Developer            | 2021 – 2024              |
+| **sharEmotion** | Emotion-based diary platform with Kakao login and like system. Developed MVP in 2 weeks as team of 3.        | Planning & Full Dev       | Feb 2024 – Mar 2024      |
+| **DaeDanSWAG**  | Official site for Dankook Univ. SWAG club. Full-stack web app built and maintained independently.            | Full-stack Dev & DevOps   | Mar 2025 – Jun 2025       |
+| **ExamToday**   | Study assistant app for tracking exams, tasks, and morning study routines.                                   | Full-stack Dev & DevOps   | Apr 2025 – May 2025       |
 -----
 ### Experience
 **KATUSA Soldier (Jul 2025 ~ Jan 2027)**  
