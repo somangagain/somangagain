@@ -24,13 +24,14 @@ I also carefully examine a broad range of social issues, translating them into a
 ### Skills
 | Area                  | Technologies                                            | Proficiency         |
 |-----------------------|---------------------------------------------------------|---------------------|
-| Programming Languages | Python, C++, JavaScript, TypeScript, Java, C#, MySQL   | Intermediate            |
-| Frontend              | React, Redux, styled-components, Axios                 | Intermediate            |
-| Backend               | Express.js, Koa.js, JWT, Nodemailer                    | Intermediate        |
-| Real-time             | WebSocket, Socket.IO                                   | Intermediate        |
-| DevOps                | Netlify, Heroku, Cafe24, Ncloud                        | Intermediate        |
-| Tools & Platforms     | Git, GitHub, Unity (WebGL), Markdown, Kakao OAuth      | Intermediate      |
-| OS                    | Windows, Ubuntu Linux                                  | Intermediate            |
+| Programming Languages | Python, C++, JavaScript, TypeScript, Java, C#, MySQL   | Intermediate |
+| AI / ML Frameworks    | PyTorch, TensorFlow, YOLO, PaddlePaddle,          | Beginner         |
+| Frontend              | React, Redux, styled-components, Axios                 | Intermediate         |
+| Backend               | Express.js, Koa.js, JWT, Nodemailer                    | Intermediate         |
+| Real-time             | WebSocket, Socket.IO                                   | Intermediate         |
+| DevOps                | Netlify, Heroku, Cafe24, Ncloud                        | Intermediate         |
+| Tools & Platforms     | Git, GitHub, Unity (WebGL), Markdown, Kakao OAuth      | Intermediate         |
+| Operating Systems     | Windows, Ubuntu Linux                                  | Intermediate             |
 -----
 #### Problem Solving & Competitive Programming
 - **Codeforces**: https://codeforces.com/profile/inquirist
