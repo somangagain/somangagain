@@ -30,7 +30,7 @@ I also carefully examine a broad range of social issues, translating them into a
 | Backend               | Express.js, Koa.js, JWT, Nodemailer                    | Intermediate         |
 | Real-time             | WebSocket, Socket.IO                                   | Intermediate         |
 | DevOps                | Netlify, Heroku, Cafe24, Ncloud                        | Intermediate         |
-| Tools & Platforms     | Git, GitHub, Unity (WebGL), Markdown, Kakao OAuth      | Intermediate         |
+| Tools & Platforms     | Git, GitHub, Unity, Markdown, Kakao OAuth      | Intermediate         |
 | Operating Systems     | Windows, Ubuntu Linux                                  | Intermediate             |
 -----
 #### Problem Solving & Competitive Programming
