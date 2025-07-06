@@ -61,8 +61,7 @@ I also carefully examine a broad range of social issues, translating them into a
 *Artificial Intelligence & Information Architecture Laboratory (AIIA), Dankook University*  
 - Focused on research in Computer Vision and Natural Language Processing.
 - (Nov 2024 ~ May 2025) Contributed to the project “Development of Counterfeit Currency Detection AI”:
-  - Used YOLO for object detection and linear regression for bounding box refinement.
-  - Applied ViT for feature extraction and localization from partial images.
+  - Performed object detection using YOLO and used ViT to localize partial images within the full image via feature extraction. 
   - Trained and deployed models on edge devices with performance optimization.
 -----
 ### Activity
@@ -70,6 +69,6 @@ I also carefully examine a broad range of social issues, translating them into a
 *A social innovation team dedicated to solving societal issues through technology and civic engagement*  
 - Lead overall strategy, resource allocation, and team coordination across multiple projects.
 - Translate complex social challenges into actionable technical tasks to drive meaningful impact.
-- Supervised projects from ideation to deployment, covering solution design, technical R\&D, and service operations.
+- Supervise projects from ideation to deployment, covering solution design, technical R\&D, and service operations.
 - Manage the team’s digital presence via [inquirist.tistory.com](https://inquirist.tistory.com)
 -----
