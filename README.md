@@ -75,7 +75,7 @@ I also carefully examine a broad range of social issues, translating them into a
 ### Awards
 **Easython – Grand Prize (2nd Place)**    
 *Aegis Club, Dankook University (Nov 22, 2025)*  
-- Built **GuardianCall**, Developed a real-time safety assistant enabling natural phone interaction and automatic emergency reporting.
+- Developed **GuardianCall**, a real-time safety assistant enabling natural phone interaction and automatic emergency reporting.
 
 **SCPC Div.3 – Honorable Mention (26th, 4 Solved)**  
 *SCSC Club, Seoul National University (May 17, 2025)*
