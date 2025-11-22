@@ -72,3 +72,10 @@ I also carefully examine a broad range of social issues, translating them into a
 - Supervise projects from ideation to deployment, covering solution design, technical R\&D, and service operations.
 - Manage the team’s digital presence via [inquirist.tistory.com](https://inquirist.tistory.com)
 -----
+### Awards
+**Easython – Grand Prize (2nd Place)**    
+*Aegis Club, Dankook University (Nov 22, 2025)*  
+- Built **GuardianCall**, a safety call system with multi-persona interaction and automated government reporting.
+
+**SCPC Div.3 – Honorable Mention (26th, 4 Solved)**  
+*SCSC Club, Seoul National University (May 17, 2025)*
